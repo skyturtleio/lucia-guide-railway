@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1693253094667,
+      "tag": "0000_loud_jackal",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1693356254517,
+      "tag": "0001_jittery_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1694473729534,
+      "tag": "0002_mighty_klaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1694653059310,
+      "tag": "0003_unique_wrecker",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1696371068875,
+      "tag": "0004_volatile_emma_frost",
+      "breakpoints": true
+    }
+  ]
+}
