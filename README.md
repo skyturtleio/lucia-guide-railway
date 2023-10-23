@@ -3,6 +3,7 @@
 ## Next Steps
 
 - [ ] setup transactional emails from Postmark
+- [ ] progressively enhance login form so there is some user feedback that they submitted the form
 
 ## Developing
 
